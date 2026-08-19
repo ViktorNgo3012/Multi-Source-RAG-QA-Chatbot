@@ -1,0 +1,30 @@
+env/
+venv/
+.venv/
+
+.env
+
+# Python caches and virtualenvs
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Local environment files
+.env.local
+.env.*.local
+
+# OS noise
+.DS_Store
+.vscode/
+
+# Frontend build output and dependencies
+frontend/dist/
+frontend/node_modules/
+frontend/.vite/
+dist/
+build/
