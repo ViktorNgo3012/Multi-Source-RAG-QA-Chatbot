@@ -2,13 +2,13 @@
 
 ### Knowledge Assistant Interface
 
-![RAG chatbot interface](rag-chatbot-01-interface)
+![RAG chatbot interface](rag-chatbot-01-interface.jpg)
 
 The application interface provides options to upload PDFs or add website URLs to build a session-specific knowledge base.
 
 ### Document Question Answering
 
-![Document question-answering demonstration](rag-chatbot-02-document-qa-demo)
+![Document question-answering demonstration](rag-chatbot-02-document-qa-demo.jpg)
 
 Example response to a question about my skills and achievements using my uploaded CV. The interface displays the indexed document, chunk count and an expandable section for retrieved source snippets.
 
