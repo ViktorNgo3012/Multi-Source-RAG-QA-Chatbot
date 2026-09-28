@@ -1,3 +1,18 @@
+## Application Screenshots
+
+### Knowledge Assistant Interface
+
+![RAG chatbot interface](rag-chatbot-01-interface)
+
+The application interface provides options to upload PDFs or add website URLs to build a session-specific knowledge base.
+
+### Document Question Answering
+
+![Document question-answering demonstration](rag-chatbot-02-document-qa-demo)
+
+Example response to a question about my skills and achievements using my uploaded CV. The interface displays the indexed document, chunk count and an expandable section for retrieved source snippets.
+
+
 # Multi-Source RAG Q&A Chatbot
 
 A full-stack **Retrieval-Augmented Generation (RAG)** application for question answering across PDF documents and website content.
